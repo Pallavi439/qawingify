@@ -28,12 +28,12 @@
                 <h2 style="margin-top: 0;">3️⃣ Screenshots:</h2>
                 <p>After click on amount section screenshot should be taken.</p>
             </li>
-       
+        </ul>
 
 
           
-         <div>  
+         
         <p style="text-align: center;">It's been a rewarding journey of learning and problem-solving. I'm eager to share more about it and open to any feedback or collaboration opportunities!</p>
-    </div>
+    
 </body>
 </html>
