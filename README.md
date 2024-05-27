@@ -21,7 +21,7 @@
                 <p>Checking if user click on amount section and amount get sorted.</p>
             </li>
        
-          >
+          
            
         <p style="text-align: center;">It's been a rewarding journey of learning and problem-solving. I'm eager to share more about it and open to any feedback or collaboration opportunities!</p>
     </div>
