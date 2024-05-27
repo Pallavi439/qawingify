@@ -24,6 +24,10 @@
                 <h2 style="margin-top: 0;">3️⃣ Amount Sorting:</h2>
                 <p>Validate Isdisplayed Method to check amount section is clicked or not.</p>
             </li>
+             <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">3️⃣ Screenshots:</h2>
+                <p>After click on amount section screenshot should be taken.</p>
+            </li>
        
 
 
